@@ -22,7 +22,6 @@ class Repository @Inject constructor(
 
         val catImages = mapOf(
             "Electronics" to R.drawable.electronics,
-            "Jewelery" to R.drawable.jewelery,
             "Men" to R.drawable.mensclothing,
             "Women" to R.drawable.womenclothing,
             "Cosmetics" to R.drawable.cosmetics,
@@ -30,7 +29,8 @@ class Repository @Inject constructor(
             "Toys" to R.drawable.toys,
             "Tools" to R.drawable.tools,
             "Home" to R.drawable.sofa,
-            "Automotive" to R.drawable.brake
+            "Automotive" to R.drawable.brake,
+            "Jewelery" to R.drawable.jewelery
         )
 
         firestore.collection("categories")
@@ -40,6 +40,7 @@ class Repository @Inject constructor(
                     // Use "name" field or document ID
                     val name = document.getString("name") ?: document.id
 
+                    // Use lowercase comparison for better matching
                     val imageRes = catImages[name] ?: R.drawable.ic_launcher_background
 
                     Log.d("REPO", "Category: $name, ImageRes: $imageRes")
