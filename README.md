@@ -58,7 +58,8 @@ Para rodar este projeto, precisará de configurar o seu próprio projeto no Fire
 - **Separação de Dados:** O `Repository` lida com a complexidade de decidir se os dados vêm da Cloud (Firestore) ou do Disco (Room).
 
 
-<img width="424" height="932" alt="Captura de ecrã 2026-04-02 112502" src="https://github.com/user-attachments/assets/487df7d3-bdaf-4263-baff-d98f60f1dbcb" />
-<img width="418" height="934" alt="Captura de ecrã 2026-04-02 112513" src="https://github.com/user-attachments/assets/db9c85cd-c56c-4f9b-8bc4-f785fc1ff8a0" />
-<img width="425" height="934" alt="Captura de ecrã 2026-04-02 112524" src="https://github.com/user-attachments/assets/89a0bda0-3dad-4cac-a7d5-02d21e8f8e6d" />
-<img width="407" height="934" alt="Captura de ecrã 2026-04-02 112557" src="https://github.com/user-attachments/assets/d6ffb999-a51c-4cc3-8e13-b4bcbb827c26" />
+
+<img width="499" height="932" alt="Captura de ecrã 2026-04-02 145339" src="https://github.com/user-attachments/assets/25abdb6a-ec79-49a9-95e8-df90f01152d4" />
+<img width="506" height="934" alt="Captura de ecrã 2026-04-02 145354" src="https://github.com/user-attachments/assets/9fe5040e-8c05-4d61-b6aa-d4ef5d2cb486" />
+<img width="502" height="929" alt="Captura de ecrã 2026-04-02 145403" src="https://github.com/user-attachments/assets/614aa0c1-5c5a-4e5b-a59c-04bed42e3cca" />
+<img width="495" height="934" alt="Captura de ecrã 2026-04-02 145505" src="https://github.com/user-attachments/assets/f42fc644-0a53-4f39-9190-f31a0dd62996" />
