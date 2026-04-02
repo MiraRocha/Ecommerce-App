@@ -57,3 +57,8 @@ Para rodar este projeto, precisará de configurar o seu próprio projeto no Fire
 - **Reatividade:** Veja como o `MyViewModel` expõe um `LiveData` que a `CartActivity` observa para atualizar a lista automaticamente.
 - **Separação de Dados:** O `Repository` lida com a complexidade de decidir se os dados vêm da Cloud (Firestore) ou do Disco (Room).
 
+
+<img width="424" height="932" alt="Captura de ecrã 2026-04-02 112502" src="https://github.com/user-attachments/assets/487df7d3-bdaf-4263-baff-d98f60f1dbcb" />
+<img width="421" height="934" alt="Captura de ecrã 2026-04-02 112513" src="https://github.com/user-attachments/assets/db9c85cd-c56c-4f9b-8bc4-f785fc1ff8a0" />
+<img width="425" height="934" alt="Captura de ecrã 2026-04-02 112524" src="https://github.com/user-attachments/assets/89a0bda0-3dad-4cac-a7d5-02d21e8f8e6d" />
+<img width="407" height="934" alt="Captura de ecrã 2026-04-02 112557" src="https://github.com/user-attachments/assets/d6ffb999-a51c-4cc3-8e13-b4bcbb827c26" />
